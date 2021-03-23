@@ -10,7 +10,8 @@ app.on('ready', () => {
     height: 600,
     icon: 'icon.ico',
     webPreferences: {
-      nodeIntegration: true
+      nodeIntegration: true,
+      contextIsolation: false
     }
   });
   window.loadFile('index.html');

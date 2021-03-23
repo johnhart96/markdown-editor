@@ -1,8 +1,8 @@
-version: 1.0.0
+version: 1.0.1
 files:
-  - url: markdown-editor-Setup-1.0.0.exe
-    sha512: cUyqtlxpjMZRFZUH6vnNuiIjNctWHzOpoj3Xr3D8bSTEEkN0yznrJ61vlw/sHhMbM6QfHniwPfzL1AHVHwPPyA==
-    size: 60561290
-path: markdown-editor-Setup-1.0.0.exe
-sha512: cUyqtlxpjMZRFZUH6vnNuiIjNctWHzOpoj3Xr3D8bSTEEkN0yznrJ61vlw/sHhMbM6QfHniwPfzL1AHVHwPPyA==
-releaseDate: '2021-03-23T13:17:01.983Z'
+  - url: markdown-editor-Setup-1.0.1.exe
+    sha512: EY7OQ0qL4qnf3Uwnte9YFOm2+xpxlaHlVjunXo15+m+rTyVttT4Ja0SX6sE2kuyJc3QPxvAcO9bsVL0J3tzl8Q==
+    size: 60561663
+path: markdown-editor-Setup-1.0.1.exe
+sha512: EY7OQ0qL4qnf3Uwnte9YFOm2+xpxlaHlVjunXo15+m+rTyVttT4Ja0SX6sE2kuyJc3QPxvAcO9bsVL0J3tzl8Q==
+releaseDate: '2021-03-23T14:11:26.908Z'
