@@ -1,0 +1,11 @@
+directories:
+  output: dist
+  buildResources: build
+appId: co.uk.jh96.markdown
+win:
+  icon: ./icon.ico
+publish:
+  provider: github
+  owner: johnhart96
+  repo: markdown-editor
+electronVersion: 12.0.1
